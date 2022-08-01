@@ -10,7 +10,7 @@ import tkinter.messagebox as messagebox
 
 workTime = 0
 maxWorkTime = 50*60 #最长连续工作50min
-maxWorkTimeReset = 120
+maxWorkTimeReset = 50*60
 restTime = 0
 restMax = 5*60
 
